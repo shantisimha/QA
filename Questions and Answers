@@ -1,0 +1,7 @@
+What does main method do?
+
+All Java applications begin processing with a main() method;
+Each statement in the main executes in order until the end of main is reached -- this is when your program terminates;
+What does static mean? static means that you don't have to instantiate a class to call the method;
+String[] args is an array of String objects. If you were to run your program on the command line, you could pass in parameters as arguments. These parameters can then be accessed as you would access elements in an array: args[0]...args[n];
+public means that the method can be called by any object.
