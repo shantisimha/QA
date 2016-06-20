@@ -5,3 +5,15 @@ Each statement in the main executes in order until the end of main is reached --
 What does static mean? static means that you don't have to instantiate a class to call the method;
 String[] args is an array of String objects. If you were to run your program on the command line, you could pass in parameters as arguments. These parameters can then be accessed as you would access elements in an array: args[0]...args[n];
 public means that the method can be called by any object.
+
+What is Datatype?
+
+Variables are nothing but reserved memory locations to store values. This means that when you create a variable you reserve some space in memory.
+Based on the data type of a variable, the operating system allocates memory and decides what can be stored in the reserved memory. Therefore, by assigning different data types to variables, you can store integers, decimals, or characters in these variables.
+There are two data types available in Java:
+Primitive Data Types
+Reference/Object Data Types
+
+What are different datatypes?
+
+byte, short, int, long, float, double boolean, char
